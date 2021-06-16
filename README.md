@@ -12,5 +12,6 @@
 9. Implementation of Linked List Data Structure using Java
 10. Implementation of Stack using Linked List Data Structure in Java
 11. Implementation of Queue using Linked List Data Structure in Java
+12. Implementation of Double Ended Queue using Linked List Data Structure in Java
 
 
